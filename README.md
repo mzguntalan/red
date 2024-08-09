@@ -5,4 +5,4 @@ A place for code to relax in happiness without the pressure of maintenance. Most
 ## Rough Summary of Contents
 
 - Linear Transformer
-
+- Attention Free Transformer
